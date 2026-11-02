@@ -1,4 +1,4 @@
-clubbrWear — Part 3 Website Project
+# clubbrWear — Part 3 Website Project
 
 ## About
 This is a beginner-level HTML, CSS and JavaScript website for the fictional South African streetwear brand clubbrWear. The existing Part 2 pages and images were retained and updated with Part 3 functionality.
